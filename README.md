@@ -26,7 +26,7 @@ pipenv run python3 index.py display <CSV file>
 ## Example
 
 <p align="center">
-  <img src="assets/banks-deposits.csv" width="650">
+  <img src="assets/cli-usage.png" width="650">
 </p>
 
 ## Executable
