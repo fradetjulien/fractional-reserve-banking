@@ -1,5 +1,7 @@
 # fractional-reserve-banking
 
+Python script which display datatables containing statistics about money deposited, money created and money supply annualy by each bank present inside the CSV file passed as parameter.
+
 ## Installation
 
 Python 3 and Pipenv are required in order to run this program.
